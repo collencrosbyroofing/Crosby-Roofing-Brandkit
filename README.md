@@ -5,17 +5,13 @@ Brand guidelines for Crosby Roofing & Seamless Gutters (Columbia, SC / the Midla
 ## Contents
 
 - `brand-guide.html` — the full brand guide: logo system, color palette, typography, imagery direction, voice & tone, and application mockups (business card, truck door, yard sign). Open it directly in a browser, or view the published version.
-- `assets/logo/` — logo assets. Currently empty; see below.
+- `assets/logo/` — usable logo files, transparent PNG, rendered from the same recreation used in the guide:
+  - `crosby-logo-primary.png` — full lockup (icon + wordmark + service bar), red/black, for white or light backgrounds
+  - `crosby-logo-on-dark.png` — full lockup, white/orange, for black or dark backgrounds
+  - `crosby-icon-black.png` / `crosby-icon-white.png` — roofline icon only, for favicons, app icons, and social profile photos
 
 ## Status
 
-This guide was built from Crosby's existing signage, jobsite photography, and the current logo lockup (photographed, not supplied as source files). The color values, type pairing, and logo recreation in the guide are close approximations meant to document the system consistently — they are **not** pulled from master production files.
+No original logo source file exists for this brand — the mark was only available as photos of signage and printed material, not a vector or layered file. Everything in this kit (the guide's lockup and the PNGs in `assets/logo/`) is a from-scratch recreation built to match those photos closely, not an export of a master file. Treat it as the current working standard until a designer produces true master files; colors, exact type, and letterform details are close approximations.
 
-To make this production-ready, add to `assets/logo/`:
-
-- Master logo files (vector AI/EPS/SVG, or highest-res PNG) for the CROSBY lockup
-- Exact color values (Pantone/CMYK/hex) from the sign vendor or printer, if on file
-- Licensed brand fonts, if the wordmark uses something other than a lookalike
-- Current tagline, phone number, and service-area copy for the Applications section
-
-See the "Next Steps" section at the bottom of `brand-guide.html` for the full checklist.
+If original production files ever turn up (vector AI/EPS/SVG, a font license, or a printer's exact Pantone/CMYK spec), replace the assets here with those and update `brand-guide.html` to match — see the "Next Steps" section at the bottom of the guide for the full checklist.
